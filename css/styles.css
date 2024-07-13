@@ -162,14 +162,14 @@ color: #404BBF;
   margin-left: auto;
   margin-right: auto;
 background-color: #2e2f42;
-background-image: url(../images/sectionbackground.jpg);
+background-image: url(../images/backgraund.jpg);
 background-repeat: no-repeat;
 background-position: center;
 background-size: cover;
 background-image: linear-gradient( to bottom, 
 rgba(46, 47, 66, 0.7), 
 rgba(46, 47, 66, 0.7)), 
-url(../images/sectionbackground.jpg);
+url(../images/backgraund.jpg);
 max-width: 1440px;
 padding-top: 188px;
 padding-bottom: 188px;
